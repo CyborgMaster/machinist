@@ -1,3 +1,8 @@
+This has been forked from [notahat/machinist](http://github.com/notahat/machinist)
+because notahat stopped responding to pull requests and I needed some features that were
+submitted.  Once notahat accepts pull requests again (or hands over the project
+to someone who does), this fork will be deleted.
+
 # Machinist 2
 
 *Fixtures aren't fun. Machinist is.*
@@ -293,4 +298,3 @@ Thanks to Thoughtbot's [Factory
 Girl](http://github.com/thoughtbot/factory_girl/tree/master). Machinist was
 written because I loved the idea behind Factory Girl, but I thought the
 philosophy wasn't quite right, and I hated the syntax.
-
