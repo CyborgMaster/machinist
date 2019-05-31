@@ -3,6 +3,12 @@ because notahat stopped responding to pull requests and I needed some features t
 submitted.  Once notahat accepts pull requests again (or hands over the project
 to someone who does), this fork will be deleted.
 
+These are the pull requests that have been included:
++ Test::Unit support for 'rails generate model' -
+  https://github.com/notahat/machinist/pull/77
++ Fix per unified integer in ruby 2.4 -
+  https://github.com/notahat/machinist/pull/133
+
 # Machinist 2
 
 *Fixtures aren't fun. Machinist is.*
